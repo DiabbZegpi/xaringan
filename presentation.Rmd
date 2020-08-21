@@ -1,0 +1,50 @@
+---
+title: "Xaringan"
+author: "Diabb Zegpi"
+date: "20-08-2020"
+output: xaringan::moon_reader
+---
+class: middle, inverse 
+
+# Introduction
+
+Hello Camila, this is my **first slide**
+
+---
+class: right
+
+# About this presentation
+
+This presentation was done with `xaringan` and `distill` .center[packages]
+
+<img src="https://i.pinimg.com/originals/ea/ec/00/eaec00b909f42c95bfa47e9197991137.jpg" width="50%" align="left" />
+
+---
+class: middle, left
+
+# .center[About me]
+
+- I like chess
+
+--
+
+- Professional engineer
+
+--
+
+- Enjoy learning
+
+---
+
+.pull-left[
+The old T-Rex
+<img src="https://www.clipartkey.com/mpngs/m/22-220837_jurassic-world-trex-t-rex-png.png" />
+]
+
+.pull-right[
+The new version
+<img src="https://images.ctfassets.net/cnu0m8re1exe/4MWxhXybGRhf3JhrLeNVrG/656c5b40a7d6dc6e5292beeaa2d76f6b/Rjpalmer_tyrannosaurusrex_white_background-1024x476.jpg?w=650" />
+]
+
+--
+<img src="https://vignette.wikia.nocookie.net/doblaje/images/e/e5/-Rex-.png/revision/latest/top-crop/width/360/height/450?cb=20180322165824&path-prefix=es" />
